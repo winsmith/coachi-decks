@@ -3,7 +3,7 @@
     "title": "Beta Deck",
     "description": "Just trying out some things",
     "placeholders": [],
-    "cards": [
+    "decks": [
         {
             "id": "beta-deck-1-1",
             "title": "Say something nice to your partner",
