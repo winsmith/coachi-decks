@@ -3,5 +3,13 @@
         "title": "Beta Deck",
         "description": "Just trying out some things :D~",
         "url": "https://winsmith.github.io/coachy-decks/decks/beta.json"
+    },
+    {
+        "title": "This Deck does not Exist",
+        "description": "Do not tap this deck, it will only end in tears"
+    },
+    {
+        "title": "Sexual Wisdom I learned from Confucius",
+        "description": "Do not tap this deck, it will only end in tears"
     }
 ]
