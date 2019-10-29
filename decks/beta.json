@@ -20,6 +20,39 @@
             "id": "beta-deck-1-3",
             "title": "Do not use SwiftUI",
             "description": "It may be tempting, but it's a world of hurt!"
+        },
+        {
+            "id": "beta-deck-1-4",
+            "title": "Don't fill in the TO field",
+            "description": "Every email you write today, don't fill in the TO field until you're completely done.",
+            "reasoning": "This will prevent you from sending the email accidentally."
+        },
+        {
+            "id": "beta-deck-1-5",
+            "title": "Walk Slower",
+            "description": "Today, walk slowly and purpusefully. Take your time getting wherever you need to get and place your steps deliverately.",
+            "reasoning": "When we walk slowly, we feel powerful and deliberate. And we have time to think about our destination."
+        },
+        {
+            "id": "beta-deck-1-6",
+            "title": "Clean up your surroundings",
+            "description": "Set a timer to 20 minutes and see how much you can clean up in that time.",
+        },
+        {
+            "id": "beta-deck-1-7",
+            "title": "Go to bed early",
+            "description": "Today, go to bed a whole hour earlier than usual.",
+        },
+        {
+            "id": "beta-deck-1-8",
+            "title": "Don't put it down, put it away",
+            "description": "Every time today you want to put something down, put it in it's actual place where it belongs.",
+            "reasoning": "This will reduce clutter dramatically. Maybe you'll even pick this up as a new habit."
+        },
+        {
+            "id": "beta-deck-1-9",
+            "title": "Give a perfect high five today",
+            "description": "Look at the other person's elbow while giving a high five to hit perfectly."
         }
     ]
 }
