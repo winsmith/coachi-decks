@@ -1,10 +1,11 @@
 {
+    "schemaVersion": 1,
     "title": "Beta Deck",
     "description": "Just trying out some things",
     "placeholders": [],
     "cards": [
         {
-            "id": "beta-deck-1-1",
+            "identifier": "beta-deck-1-1",
             "title": "Say something nice to your partner",
             "description": "Tell your partner(s) you like them, love them, adore them, or hate them less than anyone else!",
             "reasoning": "If you do this, it will make you happy."
