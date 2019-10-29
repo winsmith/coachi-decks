@@ -5,7 +5,7 @@
     "placeholders": [],
     "cards": [
         {
-            "identifier": "beta-deck-1-1",
+            "id": "beta-deck-1-1",
             "title": "Say something nice to your partner",
             "description": "Tell your partner(s) you like them, love them, adore them, or hate them less than anyone else!",
             "reasoning": "If you do this, it will make you happy."
@@ -15,6 +15,11 @@
             "title": "Go for a walk today",
             "description": "Arrange your schedule in a way that you can get our for an hour today. If you have the stamina, go for a run. If not, go for a walk. Enjoy fresh air.",
             "reasoning": "Moving your body is proven to improve your mood and abilities."
+        },
+        {
+            "id": "beta-deck-1-3",
+            "title": "Do not use SwiftUI",
+            "description": "It may be tempting, but it's a world of hurt!"
         }
     ]
 }
