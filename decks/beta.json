@@ -53,6 +53,12 @@
             "id": "beta-deck-1-9",
             "title": "Give a perfect high five today",
             "description": "Look at the other person's elbow while giving a high five to hit perfectly."
-        }
+        },
+        {
+            "id": "beta-deck-1-10",
+            "title": "Do as little as possible",
+            "description": "Usually there are some obligations we can't escape. But every single thing that you can cancel or postpone, allow yourself to do that. Today is only for you.",
+            "reasoning": "We usually don't listen to ourselves often enough. This exercise will help you realise that you don't need to be productive to to be worth something."
+        },
     ]
 }
